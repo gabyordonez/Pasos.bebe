@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Taller01</string>
+    <string name="app_nombreEstudiante">Gabriela Ordonez</string>
+    <string name="app_fechaNacimiento">Enero 18, 1998</string>
+    <string name="app_usuarioFb">Gaby Ordonez</string>
+    <string name="app_usuarioInstagram">gabyordonez18</string>
+    <string name="app_usuarioGit">00361516</string>
+
+</resources>
